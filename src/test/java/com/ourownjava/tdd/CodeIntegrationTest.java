@@ -7,6 +7,7 @@ import org.junit.experimental.categories.Category;
 
 /**
  * @author ourownjava.com
+ * 
  */
 @Category(IntegrationTest.class)
 public class CodeIntegrationTest 
