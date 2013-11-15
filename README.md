@@ -1,1 +1,3 @@
-separate unit and integration test cases uning org.junit.experimental.categories.Category
+separate unit and integration test cases using org.junit.experimental.categories.Category
+
+For more details check http://ourownjava.com/tdd
