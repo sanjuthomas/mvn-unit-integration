@@ -51,7 +51,7 @@
 					<includes>
 						<include>**/*.class</include>
 					</includes>
-					<excludedGroups>com.ourownjava.tdd.IntegrationTest</excludedGroups>
+					<excludedGroups>com.ourownjava.tdd.IntegrationTest, com.ourownjava.tdd.ManualTest</excludedGroups>
 				</configuration>
 			</plugin>
 			
